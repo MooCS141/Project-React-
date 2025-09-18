@@ -1,2 +1,2 @@
-# Project-React-
+# Project-React
 Beta Test React Static Web
